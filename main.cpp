@@ -4,7 +4,7 @@
 using namespace std;
 
 int main() {
-    ifstream inputFile( "../asstageData.txt", ifstream::binary);
+    ifstream inputFile( "../stageData.txt", ifstream::binary);
     inputFile.seekg(0, ifstream::end);
     int fileSize = static_cast<int>(inputFile.tellg());
     inputFile.seekg(0, ifstream::beg);
