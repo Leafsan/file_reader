@@ -1,0 +1,17 @@
+# ninja log v5
+0	535	6776801795858854	CMakeFiles/file_reader.dir/main.cpp.obj	df6ca0738466f7ff
+539	800	6776801798358349	file_reader.exe	cd6ec628c5fc4a43
+3	513	6776802572451193	CMakeFiles/file_reader.dir/main.cpp.obj	df6ca0738466f7ff
+513	647	6776802573857461	file_reader.exe	cd6ec628c5fc4a43
+3	514	6776803687824251	CMakeFiles/file_reader.dir/main.cpp.obj	df6ca0738466f7ff
+514	648	6776803689230535	file_reader.exe	cd6ec628c5fc4a43
+2	509	6776804523985759	CMakeFiles/file_reader.dir/main.cpp.obj	df6ca0738466f7ff
+509	647	6776804525392031	file_reader.exe	cd6ec628c5fc4a43
+3	522	6776810411947991	CMakeFiles/file_reader.dir/main.cpp.obj	df6ca0738466f7ff
+523	818	6776810414916358	file_reader.exe	cd6ec628c5fc4a43
+3	506	6776813253932918	CMakeFiles/file_reader.dir/main.cpp.obj	df6ca0738466f7ff
+506	642	6776813255182939	file_reader.exe	cd6ec628c5fc4a43
+3	511	6776813726508182	CMakeFiles/file_reader.dir/main.cpp.obj	df6ca0738466f7ff
+511	643	6776813727758204	file_reader.exe	cd6ec628c5fc4a43
+3	613	6776813782160203	CMakeFiles/file_reader.dir/main.cpp.obj	df6ca0738466f7ff
+614	760	6776813783566145	file_reader.exe	cd6ec628c5fc4a43
